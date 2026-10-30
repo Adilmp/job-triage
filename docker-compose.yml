@@ -1,0 +1,49 @@
+# api and worker use host networking so they reach the host's Ollama on 127.0.0.1. Ollama binds there by
+# default, and binding it to 0.0.0.0 instead would expose its unauthenticated API to the whole LAN.
+# They reach Postgres and Redis through the ports those two publish.
+x-app: &app
+  build: .
+  network_mode: host
+  env_file:
+    - path: .env
+      required: false
+  environment:
+    DATABASE_URL: postgresql+asyncpg://triage:triage@127.0.0.1:5433/triage
+    REDIS_URL: redis://127.0.0.1:6380/0
+    OLLAMA_URL: http://127.0.0.1:11434
+  depends_on:
+    postgres: {condition: service_healthy}
+    redis: {condition: service_healthy}
+
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: triage
+      POSTGRES_PASSWORD: triage
+      POSTGRES_DB: triage
+    ports: ["127.0.0.1:5433:5432"]   # 5432 is left free for other local projects
+    volumes: [pgdata:/var/lib/postgresql/data]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U triage"]
+      interval: 3s
+      retries: 20
+
+  redis:
+    image: redis:7
+    ports: ["127.0.0.1:6380:6379"]
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 3s
+      retries: 20
+
+  api:
+    <<: *app
+    command: ["uvicorn", "triage.api:app", "--host", "127.0.0.1", "--port", "8010"]   # host :8000 is taken
+
+  worker:
+    <<: *app
+    command: ["arq", "triage.worker.WorkerSettings"]
+
+volumes:
+  pgdata:

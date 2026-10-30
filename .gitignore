@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+evals/runs/*.json
+evals/cache/
+.claude/
+CLAUDE.md
+docs/plans/

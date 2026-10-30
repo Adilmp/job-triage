@@ -1,0 +1,310 @@
+{
+ "offers": [
+  {
+   "created_at": "2018-02-27 17:08:58 UTC",
+   "salary": {
+    "max": null,
+    "min": null,
+    "period": null,
+    "currency": null
+   },
+   "position": 5,
+   "options_phone": "required",
+   "locations": [
+    {
+     "id": 27374,
+     "name": "6th of October, Cairo",
+     "state": "Al Qāhirah",
+     "country": "Egypt",
+     "city": "6th of October, Cairo",
+     "translations": {
+      "en": {
+       "name": "6th of October, Cairo",
+       "city": "6th of October, Cairo",
+       "postal_code": "02",
+       "street": null,
+       "note": null
+      }
+     },
+     "country_code": "EG",
+     "postal_code": "02",
+     "state_code": "C",
+     "street": null,
+     "note": null
+    }
+   ],
+   "updated_at": "2025-03-01 11:42:40 UTC",
+   "careers_apply_url": "https://cognitev.recruitee.com/o/digital-marketing-specialist-senior-junior/c/new",
+   "mailbox_email": "job.d7ohg@cognitev.recruitee.com",
+   "category_code": "marketing_pr",
+   "company_name": "Cognitev",
+   "max_hours_per_week": "40",
+   "postal_code": "02",
+   "highlight": null,
+   "requirements": "<p><strong>Skills</strong></p><ul><li><p>Experience in the Digital Marketing industry</p></li><li><p>Solid understanding of digital marketing and industry terminology</p></li><li><p>Experience in creating Paid Advertising campaigns (Google, Facebook, Twitter, LinkedIn, or any others)</p></li><li><p>Working knowledge of web analytics tools (Google Analytics, etc)</p></li><li><p>Excellent communication skills, verbal and written English is a must</p></li><li><p>Analytical mind and strong quantitative skills</p></li><li><p>Strong reporting capabilities</p></li></ul><p><br></p><p><strong>Responsibilities</strong></p><ul><li><p>Create paid advertising campaigns on different marketing channels</p></li><li><p>Continuously explore new paid marketing channels</p></li><li><p>Document strategies to optimize and automate tasks in the campaign lifecycle</p></li><li><p>Work with the Marketing Technology team to put a roadmap and strategy of learning and exploring new marketing channels</p></li></ul><p><br></p>",
+   "published_at": "2021-07-12 11:25:29 UTC",
+   "careers_url": "https://cognitev.recruitee.com/o/digital-marketing-specialist-senior-junior",
+   "cover_image": null,
+   "locations_question": "What is your preferred work location?",
+   "locations_question_required": true,
+   "tags": [],
+   "min_hours_per_week": "30",
+   "slug": "digital-marketing-specialist-senior-junior",
+   "city": "6th of October, Cairo",
+   "country": "Egypt",
+   "sharing_title": "Digital Marketing Specialist - Senior / Junior",
+   "dynamic_fields": [],
+   "close_at": null,
+   "max_hours": 40,
+   "title": "Digital Marketing Specialist - Senior / Junior",
+   "description": "<p><strong>Who are you?</strong></p><p>You're a digital marketer at heart. Someone who loves exploring new paid advertising and marketing channels. Wether its Facebook, Google, Instagram, Snapchat, Twitter, LinkedIn, or any other channel, you want to dig in!</p><p><br></p><p>Your main responsibility will be to work with our awesome Marketing Technology team who continously explore new marketing channels by creating campaigns and learning how to best optimize them. This knowledge will then feed into our automation efforts.&nbsp;</p><p><br></p><p><strong>Who are we?</strong></p><p>We're an elite team, one of a kind in Egypt, and we're disrupting the marketing industry . Our team has won several awards and were mentioned in the world's biggest publications such as Forbes, TechCrunch, and more.&nbsp;</p><p>We are on a mission to make the internet a better place by fixing the way marketing works, and together we're conquering the world...one step at a time!</p><p><br></p><p><strong>Why work with us?</strong></p><p><br></p><p>Because we put people first!</p><p><br></p><p><u>Some of the benefits of working in Cognitev are:</u></p><ul><li><p>Global company with offices around the world (Dubai, Cairo, London, San Francisco)</p></li><li><p>Our Cairo office is a large villa, with our own pool, and mango trees with an XBox zone, and a Ping-pong table :)&nbsp;</p></li><li><p>All our salaries are paid in US Dollars ($)</p></li><li><p>Stock options for all team members</p></li><li><p>Unlimited vacation, work from home</p></li><li><p>Schooling allowance for team members with children</p></li><li><p>Medical Insurance</p></li><li><p>In-house Catering service&nbsp;</p></li><li><p>Incredible hand-picked team, that is one of the most solid in Egypt.</p></li><li><p>An amazing culture to work in</p></li><li><p>Global product being used by customers around the world (US, Europe, Asia, MENA)</p></li><li><p>And most important, we are <strong>changing</strong> <strong>the</strong> <strong>world</strong>, literally.&nbsp;</p></li></ul>",
+   "min_hours": 30,
+   "state_code": "C",
+   "location_question_visible": false,
+   "remote": false,
+   "on_site": true,
+   "education_code": "bachelor_degree",
+   "sharing_description": "Who are you?You're a digital marketer at heart. Someone who loves exploring new paid advertising and marketing channels. Wether its Facebook, Google, Instagram, Snapchat, Twitter, LinkedIn, or any oth",
+   "employment_type_code": "fulltime",
+   "country_code": "EG",
+   "id": 117551,
+   "options_cover_letter": "required",
+   "options_salutation": "off",
+   "location": "6th of October, Cairo, Al Qāhirah, Egypt",
+   "hybrid": false,
+   "options_cv": "required",
+   "options_photo": "optional",
+   "options_title": "off",
+   "department": "Marketing Technology",
+   "locations_question_type": "multiple_choice",
+   "guid": "d7ohg",
+   "status": "published",
+   "open_questions": [
+    {
+     "id": 103725,
+     "position": 1,
+     "options": null,
+     "required": true,
+     "body": "Can you describe yourself in one sentence?",
+     "kind": "string",
+     "translations": {
+      "en": {
+       "body": "Can you describe yourself in one sentence?"
+      }
+     },
+     "open_question_options": []
+    },
+    {
+     "id": 103726,
+     "position": 2,
+     "options": null,
+     "required": true,
+     "body": "What do you believe will be your biggest contribution to our team?",
+     "kind": "string",
+     "translations": {
+      "en": {
+       "body": "What do you believe will be your biggest contribution to our team?"
+      }
+     },
+     "open_question_options": []
+    },
+    {
+     "id": 103728,
+     "position": 3,
+     "options": null,
+     "required": true,
+     "body": "What is your favorite channel for paid advertising?",
+     "kind": "string",
+     "translations": {
+      "en": {
+       "body": "What is your favorite channel for paid advertising?"
+      }
+     },
+     "open_question_options": []
+    },
+    {
+     "id": 103727,
+     "position": 4,
+     "options": null,
+     "required": true,
+     "body": "What is your favorite optimization technique on the channel you mentioned above?",
+     "kind": "string",
+     "translations": {
+      "en": {
+       "body": "What is your favorite optimization technique on the channel you mentioned above?"
+      }
+     },
+     "open_question_options": []
+    }
+   ],
+   "state_name": "Al Qāhirah",
+   "translations": {
+    "en": {
+     "description": "<p><strong>Who are you?</strong></p><p>You're a digital marketer at heart. Someone who loves exploring new paid advertising and marketing channels. Wether its Facebook, Google, Instagram, Snapchat, Twitter, LinkedIn, or any other channel, you want to dig in!</p><p><br></p><p>Your main responsibility will be to work with our awesome Marketing Technology team who continously explore new marketing channels by creating campaigns and learning how to best optimize them. This knowledge will then feed into our automation efforts.&nbsp;</p><p><br></p><p><strong>Who are we?</strong></p><p>We're an elite team, one of a kind in Egypt, and we're disrupting the marketing industry . Our team has won several awards and were mentioned in the world's biggest publications such as Forbes, TechCrunch, and more.&nbsp;</p><p>We are on a mission to make the internet a better place by fixing the way marketing works, and together we're conquering the world...one step at a time!</p><p><br></p><p><strong>Why work with us?</strong></p><p><br></p><p>Because we put people first!</p><p><br></p><p><u>Some of the benefits of working in Cognitev are:</u></p><ul><li><p>Global company with offices around the world (Dubai, Cairo, London, San Francisco)</p></li><li><p>Our Cairo office is a large villa, with our own pool, and mango trees with an XBox zone, and a Ping-pong table :)&nbsp;</p></li><li><p>All our salaries are paid in US Dollars ($)</p></li><li><p>Stock options for all team members</p></li><li><p>Unlimited vacation, work from home</p></li><li><p>Schooling allowance for team members with children</p></li><li><p>Medical Insurance</p></li><li><p>In-house Catering service&nbsp;</p></li><li><p>Incredible hand-picked team, that is one of the most solid in Egypt.</p></li><li><p>An amazing culture to work in</p></li><li><p>Global product being used by customers around the world (US, Europe, Asia, MENA)</p></li><li><p>And most important, we are <strong>changing</strong> <strong>the</strong> <strong>world</strong>, literally.&nbsp;</p></li></ul>",
+     "title": "Digital Marketing Specialist - Senior / Junior",
+     "highlight": null,
+     "sharing_image": null,
+     "requirements": "<p><strong>Skills</strong></p><ul><li><p>Experience in the Digital Marketing industry</p></li><li><p>Solid understanding of digital marketing and industry terminology</p></li><li><p>Experience in creating Paid Advertising campaigns (Google, Facebook, Twitter, LinkedIn, or any others)</p></li><li><p>Working knowledge of web analytics tools (Google Analytics, etc)</p></li><li><p>Excellent communication skills, verbal and written English is a must</p></li><li><p>Analytical mind and strong quantitative skills</p></li><li><p>Strong reporting capabilities</p></li></ul><p><br></p><p><strong>Responsibilities</strong></p><ul><li><p>Create paid advertising campaigns on different marketing channels</p></li><li><p>Continuously explore new paid marketing channels</p></li><li><p>Document strategies to optimize and automate tasks in the campaign lifecycle</p></li><li><p>Work with the Marketing Technology team to put a roadmap and strategy of learning and exploring new marketing channels</p></li></ul><p><br></p>",
+     "locations_question": "What is your preferred work location?",
+     "sharing_description": "Who are you?You're a digital marketer at heart. Someone who loves exploring new paid advertising and marketing channels. Wether its Facebook, Google, Instagram, Snapchat, Twitter, LinkedIn, or any oth",
+     "sharing_title": "Digital Marketing Specialist - Senior / Junior"
+    }
+   },
+   "experience_code": "entry_level",
+   "sharing_image": null
+  },
+  {
+   "created_at": "2017-09-02 08:54:00 UTC",
+   "salary": {
+    "max": null,
+    "min": null,
+    "period": null,
+    "currency": null
+   },
+   "position": 4,
+   "options_phone": "required",
+   "locations": [
+    {
+     "id": 27364,
+     "name": "6th of October, 02",
+     "state": "Al Qāhirah",
+     "country": "Egypt",
+     "city": "6th of October",
+     "translations": {
+      "en": {
+       "name": "6th of October, 02",
+       "city": "6th of October",
+       "postal_code": "02",
+       "street": null,
+       "note": null
+      }
+     },
+     "country_code": "EG",
+     "postal_code": "02",
+     "state_code": "C",
+     "street": null,
+     "note": null
+    }
+   ],
+   "updated_at": "2025-02-24 04:51:34 UTC",
+   "careers_apply_url": "https://cognitev.recruitee.com/o/mobile-engineer-ios-or-android-senior-junior/c/new",
+   "mailbox_email": "job.a3m5b@cognitev.recruitee.com",
+   "category_code": "other",
+   "company_name": "Cognitev",
+   "max_hours_per_week": "40",
+   "postal_code": "02",
+   "highlight": null,
+   "requirements": "<p><strong>Skills</strong><br></p><ul><li><p>Familiarity with RESTful APIs to connect mobile applications to back-end services</p></li><li><p>Strong knowledge of UI design principles, patterns, and best practices</p></li><li><p>Experience with offline storage, threading, and performance tuning</p></li><li><p>Ability to design applications around natural user interfaces, such as “touch”</p></li><li><p>Familiarity with the use of additional sensors, such as gyroscopes and accelerometers</p></li><li><p>Knowledge of the ecosystem and the libraries available for common tasks</p></li><li><p>Ability to understand business requirements and translate them into technical requirements</p></li><li><p>Familiarity with cloud message APIs and push notifications</p></li><li><p>A knack for benchmarking and optimization</p></li><li><p>Understanding of Google’s or Apple's&nbsp;design principles and interface guidelines</p></li><li><p>Proficient understanding of code versioning tools, such as Git</p></li><li><p>Familiarity with continuous integration</p></li></ul><p>&nbsp;</p><p><strong>Responsibilities</strong></p><ul><li><p>Manage the full technical life-cycle of mobile applications during each development phase.</p></li><li><p>Collaborate with team members to brainstorm about new products, provide each other with technical insight and review working drafts.</p></li><li><p>Document and maintain design specifications, source code, and archives for new applications and ideas.</p></li><li><p>Work with product managers, clients and sales teams to assess customer demand and usability of new applications.</p></li><li><p>Perform individual project components within the entire development lifecycle including implementation, testing, deployment and maintenance.</p></li><li><p>Work from UI/UX requirements, APIs, mockups to build functional, high-performance phone and tablet apps.</p></li><li><p>Diagnose performance issues, fix bugs to increase the functionality of new applications.</p></li></ul><p>You can either apply here, or just send us your CV to&nbsp;<strong>jobs@cognitev.com</strong>&nbsp;...&nbsp;Join us on the greatest journey of our lives!&nbsp;<a rel=\"noopener\" target=\"_blank\" href=\"https://emojipedia.org/rocket/\">🚀</a></p>",
+   "published_at": "2019-10-12 15:50:03 UTC",
+   "careers_url": "https://cognitev.recruitee.com/o/mobile-engineer-ios-or-android-senior-junior",
+   "cover_image": null,
+   "locations_question": "What is your preferred work location?",
+   "locations_question_required": true,
+   "tags": [],
+   "min_hours_per_week": "30",
+   "slug": "mobile-engineer-ios-or-android-senior-junior",
+   "city": "6th of October",
+   "country": "Egypt",
+   "sharing_title": "Mobile Engineer (iOS or Android) - Senior / Junior",
+   "dynamic_fields": [],
+   "close_at": null,
+   "max_hours": 40,
+   "title": "Mobile Engineer (iOS or Android) - Senior / Junior",
+   "description": "<p><strong>Who are you?</strong></p><p>&nbsp;</p><p>You are a passionate Mobile developer (iOS or Android) with an itch to push mobile technologies to the limits. You are someone who wants to be responsible for the development and maintenance of applications aimed at a vast number of mobile devices. You want your primary focus to be the development of mobile applications and their integration with back-end services.</p><p>&nbsp;</p><p>You are known for being dependable, a reliable problem solver, and being a tech detective.&nbsp;If something is broken you find it and fix it, aided by the structure you’ve set up.</p><p>&nbsp;</p><p>You are known for being dependable, a reliable problem solver, and being a tech detective.&nbsp;If something is broken you find it and fix it, aided by the structure you’ve set up.</p><p>&nbsp;</p><p><strong>Who are we?</strong></p><p>We're a team of elite engineers, one of a kind in Egypt, and we're&nbsp;working on building highly sophisticated Artificial Intelligence platforms in the field of marketing automation. Our team has&nbsp;won several awards and were mentioned in the world's biggest publications such as Forbes, TechCrunch, and more.&nbsp;</p><p>&nbsp;</p><p>We are on a mission to make the internet a better place by fixing the way marketing works, and together we're conquering the world...one commit at a time!</p><p>&nbsp;</p><p><strong>Why work with us?</strong></p><p>Because we put people first!</p><p>&nbsp;</p><p><u>Some of the&nbsp;benefits&nbsp;of working in Cognitev are:</u></p><ul><li><p>Global company with offices around the world (Dubai, Cairo, San Francisco)</p></li><li><p>Our Cairo office is a large villa, with our own pool, and mango trees with an XBox zone, and a Ping-pong table :)&nbsp;</p></li><li><p>All our salaries are paid in US Dollars ($)</p></li><li><p>Stock options for all team members</p></li><li><p>Unlimited vacation, work from home</p></li><li><p>Schooling allowance for team members with children</p></li><li><p>Medical Insurance</p></li><li><p>In-house Catering service&nbsp;</p></li><li><p>Working on the most challenging computational problems with the most advanced stack (Scala, Akka, Spark, Storm, Kafka, Kubernetes, and more)</p></li><li><p>Incredible hand-picked team, that is one of the most solid in Egypt.</p></li><li><p>An amazing culture to work in</p></li><li><p>Two patents in the fields of NLP and Deep learning</p></li><li><p>Global product being used by customers around the world (US, Europe, Asia, MENA)</p></li></ul>",
+   "min_hours": 30,
+   "state_code": "C",
+   "location_question_visible": false,
+   "remote": false,
+   "on_site": true,
+   "education_code": "high_school",
+   "sharing_description": "Who are you? You are a passionate Mobile developer (iOS or Android) with an itch to push mobile technologies to the limits. You are someone who wants to be responsible for the development and maintena",
+   "employment_type_code": "fulltime",
+   "country_code": "EG",
+   "id": 73645,
+   "options_cover_letter": "optional",
+   "options_salutation": "off",
+   "location": "6th of October, Al Qāhirah, Egypt",
+   "hybrid": false,
+   "options_cv": "required",
+   "options_photo": "optional",
+   "options_title": "off",
+   "department": "Mobile",
+   "locations_question_type": "multiple_choice",
+   "guid": "a3m5b",
+   "status": "published",
+   "open_questions": [
+    {
+     "id": 60417,
+     "position": 1,
+     "options": null,
+     "required": true,
+     "body": "Can you describe yourself in one sentence?",
+     "kind": "text",
+     "translations": {
+      "en": {
+       "body": "Can you describe yourself in one sentence?"
+      }
+     },
+     "open_question_options": []
+    },
+    {
+     "id": 60418,
+     "position": 2,
+     "options": null,
+     "required": true,
+     "body": "What is the one thing you wish you could achieve?",
+     "kind": "text",
+     "translations": {
+      "en": {
+       "body": "What is the one thing you wish you could achieve?"
+      }
+     },
+     "open_question_options": []
+    },
+    {
+     "id": 60419,
+     "position": 3,
+     "options": null,
+     "required": true,
+     "body": "What is the accomplishment you are most proud of in your life?",
+     "kind": "text",
+     "translations": {
+      "en": {
+       "body": "What is the accomplishment you are most proud of in your life?"
+      }
+     },
+     "open_question_options": []
+    },
+    {
+     "id": 60429,
+     "position": 4,
+     "options": null,
+     "required": true,
+     "body": "What is the most important app on your phone?",
+     "kind": "text",
+     "translations": {
+      "en": {
+       "body": "What is the most important app on your phone?"
+      }
+     },
+     "open_question_options": []
+    }
+   ],
+   "state_name": "Al Qāhirah",
+   "translations": {
+    "en": {
+     "description": "<p><strong>Who are you?</strong></p><p>&nbsp;</p><p>You are a passionate Mobile developer (iOS or Android) with an itch to push mobile technologies to the limits. You are someone who wants to be responsible for the development and maintenance of applications aimed at a vast number of mobile devices. You want your primary focus to be the development of mobile applications and their integration with back-end services.</p><p>&nbsp;</p><p>You are known for being dependable, a reliable problem solver, and being a tech detective.&nbsp;If something is broken you find it and fix it, aided by the structure you’ve set up.</p><p>&nbsp;</p><p>You are known for being dependable, a reliable problem solver, and being a tech detective.&nbsp;If something is broken you find it and fix it, aided by the structure you’ve set up.</p><p>&nbsp;</p><p><strong>Who are we?</strong></p><p>We're a team of elite engineers, one of a kind in Egypt, and we're&nbsp;working on building highly sophisticated Artificial Intelligence platforms in the field of marketing automation. Our team has&nbsp;won several awards and were mentioned in the world's biggest publications such as Forbes, TechCrunch, and more.&nbsp;</p><p>&nbsp;</p><p>We are on a mission to make the internet a better place by fixing the way marketing works, and together we're conquering the world...one commit at a time!</p><p>&nbsp;</p><p><strong>Why work with us?</strong></p><p>Because we put people first!</p><p>&nbsp;</p><p><u>Some of the&nbsp;benefits&nbsp;of working in Cognitev are:</u></p><ul><li><p>Global company with offices around the world (Dubai, Cairo, San Francisco)</p></li><li><p>Our Cairo office is a large villa, with our own pool, and mango trees with an XBox zone, and a Ping-pong table :)&nbsp;</p></li><li><p>All our salaries are paid in US Dollars ($)</p></li><li><p>Stock options for all team members</p></li><li><p>Unlimited vacation, work from home</p></li><li><p>Schooling allowance for team members with children</p></li><li><p>Medical Insurance</p></li><li><p>In-house Catering service&nbsp;</p></li><li><p>Working on the most challenging computational problems with the most advanced stack (Scala, Akka, Spark, Storm, Kafka, Kubernetes, and more)</p></li><li><p>Incredible hand-picked team, that is one of the most solid in Egypt.</p></li><li><p>An amazing culture to work in</p></li><li><p>Two patents in the fields of NLP and Deep learning</p></li><li><p>Global product being used by customers around the world (US, Europe, Asia, MENA)</p></li></ul>",
+     "title": "Mobile Engineer (iOS or Android) - Senior / Junior",
+     "highlight": null,
+     "sharing_image": null,
+     "requirements": "<p><strong>Skills</strong><br></p><ul><li><p>Familiarity with RESTful APIs to connect mobile applications to back-end services</p></li><li><p>Strong knowledge of UI design principles, patterns, and best practices</p></li><li><p>Experience with offline storage, threading, and performance tuning</p></li><li><p>Ability to design applications around natural user interfaces, such as “touch”</p></li><li><p>Familiarity with the use of additional sensors, such as gyroscopes and accelerometers</p></li><li><p>Knowledge of the ecosystem and the libraries available for common tasks</p></li><li><p>Ability to understand business requirements and translate them into technical requirements</p></li><li><p>Familiarity with cloud message APIs and push notifications</p></li><li><p>A knack for benchmarking and optimization</p></li><li><p>Understanding of Google’s or Apple's&nbsp;design principles and interface guidelines</p></li><li><p>Proficient understanding of code versioning tools, such as Git</p></li><li><p>Familiarity with continuous integration</p></li></ul><p>&nbsp;</p><p><strong>Responsibilities</strong></p><ul><li><p>Manage the full technical life-cycle of mobile applications during each development phase.</p></li><li><p>Collaborate with team members to brainstorm about new products, provide each other with technical insight and review working drafts.</p></li><li><p>Document and maintain design specifications, source code, and archives for new applications and ideas.</p></li><li><p>Work with product managers, clients and sales teams to assess customer demand and usability of new applications.</p></li><li><p>Perform individual project components within the entire development lifecycle including implementation, testing, deployment and maintenance.</p></li><li><p>Work from UI/UX requirements, APIs, mockups to build functional, high-performance phone and tablet apps.</p></li><li><p>Diagnose performance issues, fix bugs to increase the functionality of new applications.</p></li></ul><p>You can either apply here, or just send us your CV to&nbsp;<strong>jobs@cognitev.com</strong>&nbsp;...&nbsp;Join us on the greatest journey of our lives!&nbsp;<a rel=\"noopener\" target=\"_blank\" href=\"https://emojipedia.org/rocket/\">🚀</a></p>",
+     "locations_question": "What is your preferred work location?",
+     "sharing_description": "Who are you? You are a passionate Mobile developer (iOS or Android) with an itch to push mobile technologies to the limits. You are someone who wants to be responsible for the development and maintena",
+     "sharing_title": "Mobile Engineer (iOS or Android) - Senior / Junior"
+    }
+   },
+   "experience_code": "entry_level",
+   "sharing_image": null
+  }
+ ]
+}

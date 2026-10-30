@@ -1,0 +1,37 @@
+{
+  "_note": "SYNTHETIC. Written from Workable's documented widget API shape because apply.workable.com rate-limited us (429, Retry-After ~24h) before a real response was saved. Replace with a real capture once the block lifts.",
+  "name": "Acme AI",
+  "description": null,
+  "jobs": [
+    {
+      "title": "Machine Learning Engineer",
+      "shortcode": "A1B2C3D4E5",
+      "code": "",
+      "employment_type": "Full-time",
+      "telecommuting": true,
+      "department": "Engineering",
+      "url": "https://apply.workable.com/j/A1B2C3D4E5",
+      "shortlink": "https://apply.workable.com/j/A1B2C3D4E5",
+      "application_url": "https://apply.workable.com/j/A1B2C3D4E5/apply",
+      "published_on": "2026-10-20",
+      "created_at": "2026-10-19",
+      "country": "United Arab Emirates",
+      "city": "Dubai",
+      "state": "Dubai",
+      "description": "<p>We build <strong>LLM</strong> products &amp; tooling.</p><ul><li>Python</li><li>PyTorch</li></ul>",
+      "locations": [{"country": "United Arab Emirates", "countryCode": "AE", "city": "Dubai", "region": "Dubai", "hidden": false}]
+    },
+    {
+      "title": "Office Manager",
+      "shortcode": "F6G7H8I9J0",
+      "telecommuting": false,
+      "department": "Operations",
+      "url": "https://apply.workable.com/j/F6G7H8I9J0",
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "state": "",
+      "description": "",
+      "locations": [{"country": "Saudi Arabia", "countryCode": "SA", "city": "Riyadh", "region": "", "hidden": false}]
+    }
+  ]
+}
